@@ -1,1 +1,1 @@
-# aruk-sh.github.io
+# arku-sh.github.io
